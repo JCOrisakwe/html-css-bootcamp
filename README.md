@@ -1,3 +1,6 @@
+https://docs.google.com/document/d/1hImjmsk17X3ni-ODRVjK0LZ0BGk1YU5LAoElJs-YP8A/edit?usp=drivesdk
+
+
 ## **HTML & CSS Relearning (Udemy - The Web Developer Bootcamp 2025)**  
 
 ### **About This Repository**  
