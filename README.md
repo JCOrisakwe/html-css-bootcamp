@@ -1,4 +1,17 @@
-https://docs.google.com/document/d/1hImjmsk17X3ni-ODRVjK0LZ0BGk1YU5LAoElJs-YP8A/edit?usp=drivesdk
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Segoe UI (TrueType)"=""
+"Segoe UI Bold (TrueType)"=""
+"Segoe UI Bold Italic (TrueType)"=""
+"Segoe UI Italic (TrueType)"=""
+"Segoe UI Light (TrueType)"=""
+"Segoe UI Semibold (TrueType)"=""
+"Segoe UI Black (TrueType)"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+"Segoe UI"="SF Pro Display"
+
 
 
 ## **HTML & CSS Relearning (Udemy - The Web Developer Bootcamp 2025)**  
